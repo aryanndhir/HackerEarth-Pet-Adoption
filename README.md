@@ -44,7 +44,7 @@ score = 100*(s1+s2)/2
 
 9. Created a Heatmap to see the correlation amongst all the features
 
-10. Finally used LGBM classifier to train the data and create the predictions
+10. Finally used LGBM classifier to train the data and create the predictions and get F1 score of 90.50%
 
 
 ## Credits

@@ -16,9 +16,9 @@ This projects helps classifying the pet and breed category provided the followin
 10. pet_category: Category of the pet (target variable)
 
 ## Evaluation Metric
-s1:  weighted average f1_score for breed category
-s2:  weighted average f1_score for pet category 
-score = 100*(s1+s2)/2
+1. s1:  weighted average f1_score for breed category
+2. s2:  weighted average f1_score for pet category 
+3. score = 100*(s1+s2)/2
 
 ## Project Structure
 1. train.csv and test.csv files contain the training and testing data, respectively

@@ -44,7 +44,7 @@ This projects helps classifying the pet and breed category provided the followin
 
 9. Created a Heatmap to see the correlation amongst all the features
 
-10. Finally used LGBM classifier to train the data and create the predictions and get F1 score of 90.50%
+10. Finally used LGBM classifier to train the data and create the predictions and got a F1 score of 90.50%
 
 
 ## Credits

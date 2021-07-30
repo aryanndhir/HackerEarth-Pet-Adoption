@@ -1,4 +1,5 @@
-# HackerEarth-Pet-Adoption    Rank: 94
+# HackerEarth-Pet-Adoption    
+## Rank: 94
 
 ### A ML multi-class classification project to identify pet and breed category
 
